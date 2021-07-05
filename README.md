@@ -2,7 +2,7 @@
 
 # Exercise Tracker - FitBit
 
-**FitBit** is an exercise-tracker, full-stack Web Application which keeps a log of the exercises performed by the users.
+**FitBit** is an exercise-logger, full-stack Web Application which keeps a log of the exercises performed by the users.
 Users just need to input their name, exercise description.
 And then they can preview their exercise records at any time they will.  
 
